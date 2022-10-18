@@ -17,7 +17,7 @@ int main(void)
 
 void f(void)
 {
-	for (i-0; i<10; i++)
+	for (i=0; i<10; i++)
 	printf("#");
 }
 	
